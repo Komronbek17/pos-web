@@ -63,7 +63,7 @@
                         rearCamera:"12 MP",
                         frontCamera:"30 MP",
                         screenSize:"16.51 cm",
-                        avatar:"https://mobilekingonline.com/wp-content/uploads/2019/09/Vivo-V15-Pro-600x500.png",
+                        avatar:"https://www.91-img.com/pictures/132721-v10-vivo-v15-pro-mobile-phone-large-1.jpg?tr=h-330,c-at_max,q-60",
                         price:"156"
                     },
                     {
